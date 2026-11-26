@@ -85,7 +85,7 @@ RÚBRICA (100 puntos):
 3. Aplicación de hiperautomatización: 15
 4. Análisis de requisitos, diseño y arquitectura: 15
 5. Desarrollo e implementación de la solución: 15
-6. Pruebas, validación y resultados: 15
+6. Interacción multiagente, validación y resultados: 15
 7. Estándares técnicos, seguridad y responsabilidad tecnológica: 10
 8. Calidad documental, fundamentos académicos y referencias: 10
 
